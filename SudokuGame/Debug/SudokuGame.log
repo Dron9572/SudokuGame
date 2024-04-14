@@ -1,0 +1,18 @@
+﻿  SudokuGame.cpp
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(43,11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(43,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(43,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(43,11): message : этот аргумент используется в качестве размера буфера
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(44,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(44,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(44,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(44,10): message : этот аргумент используется в качестве размера буфера
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(52,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(52,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(52,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(52,10): message : этот аргумент используется в качестве размера буфера
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(53,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(53,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(53,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Andrei\source\repos\C\SudokuGame\SudokuGame\SudokuGame.cpp(53,10): message : этот аргумент используется в качестве размера буфера
+  SudokuGame.vcxproj -> C:\Users\Andrei\source\repos\C\SudokuGame\Debug\SudokuGame.exe
